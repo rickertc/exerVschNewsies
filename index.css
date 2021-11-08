@@ -1,0 +1,16 @@
+header{
+    text-align:center;
+    color:red;
+    font-size: larger;
+    font-family:cursive
+    
+}
+
+h1{
+    font: size 110px;;
+    display: block;
+}
+P{
+    column-count: 2;
+    background-color: lightgrey;
+}
